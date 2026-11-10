@@ -1,41 +1,41 @@
 # Messa online: cosa resta da fare
 
-Stato a novembre 2026: il sito è costruito e sta in questa repository. Il vecchio sito su
-Jimdo è ancora quello pubblico su `www.paolopecere.it`. Questa è la lista dei passi per
-arrivare al nuovo sito sul dominio, nell'ordine in cui vanno fatti. Spuntare le caselle
-man mano.
+Stato al 10 novembre 2026: il sito è online su `https://paolopecere.pages.dev` (sezioni 1
+e 2 fatte). Il vecchio sito su Jimdo è ancora quello pubblico su `www.paolopecere.it`.
+Questa è la lista dei passi per arrivare al nuovo sito sul dominio, nell'ordine in cui
+vanno fatti. Spuntare le caselle man mano.
 
 Regola generale: **Jimdo si disdice per ultimo**, quando il nuovo sito risponde già sul
 dominio.
 
 ## 1. Hosting su Cloudflare Pages (gratuito)
 
-- [ ] Creare un account gratuito su cloudflare.com.
-- [ ] Nel pannello: **Workers & Pages**, poi **Create application**, **Pages**,
+- [x] Creare un account gratuito su cloudflare.com.
+- [x] Nel pannello: **Workers & Pages**, poi **Create application**, **Pages**,
       **Connect to Git**.
-- [ ] Scegliere **GitHub**, accedere come `adrianopecere` e dare accesso alla sola
+- [x] Scegliere **GitHub**, accedere come `adrianopecere` e dare accesso alla sola
       repository `Sito-Pap-` (**Install & Authorize**, poi **Begin setup**).
-- [ ] Impostazioni di build:
+- [x] Impostazioni di build:
       - Project name: un nome breve, per esempio `paolopecere` (diventa
         `paolopecere.pages.dev`)
       - Production branch: `main`
       - Framework preset: `None`
       - Build command: `exit 0`
       - Build output directory: `public`
-- [ ] **Save and Deploy**. Dopo un minuto il sito è visibile su `NOME.pages.dev`.
-- [ ] Scrivere qui l'indirizzo: `https://__________.pages.dev`
+- [x] **Save and Deploy**. Dopo un minuto il sito è visibile su `paolopecere.pages.dev`.
+- [x] Scrivere qui l'indirizzo: `https://paolopecere.pages.dev`
 
 Da questo momento ogni push su `main` pubblica il sito, e ogni altro branch ha una sua
-anteprima su `NOME-DEL-BRANCH.NOME.pages.dev` (il nome del branch in minuscolo, con i
+anteprima su `NOME-DEL-BRANCH.paolopecere.pages.dev` (il nome del branch in minuscolo, con i
 trattini al posto di `/` e degli altri simboli).
 
 ## 2. Claude per la gestione quotidiana
 
-- [ ] Sull'account Claude che gestirà il sito, aprire claude.ai/code e collegare GitHub
+- [x] Sull'account Claude che gestirà il sito, aprire claude.ai/code e collegare GitHub
       accedendo come `adrianopecere`.
-- [ ] Installare la Claude GitHub App sull'account GitHub, limitandola alla repository
+- [x] Installare la Claude GitHub App sull'account GitHub, limitandola alla repository
       `Sito-Pap-` (github.com/apps/claude).
-- [ ] Aprire una sessione scegliendo la repository `Sito-Pap-` e fare una prima modifica
+- [x] Aprire una sessione scegliendo la repository `Sito-Pap-` e fare una prima modifica
       di prova (per esempio aggiungere un evento).
 
 Claude trova le istruzioni in `CLAUDE.md` a ogni sessione: non serve rispiegargli il sito.
