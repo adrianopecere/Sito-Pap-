@@ -1,0 +1,344 @@
+{
+ "nav.books": {
+  "en": "Books",
+  "it": "Libri"
+ },
+ "nav.papers": {
+  "en": "Papers",
+  "it": "Articoli"
+ },
+ "nav.essays": {
+  "en": "Essays",
+  "it": "Saggi"
+ },
+ "nav.stories": {
+  "en": "Stories",
+  "it": "Racconti"
+ },
+ "nav.events": {
+  "en": "Events",
+  "it": "Eventi"
+ },
+ "nav.media": {
+  "en": "Media",
+  "it": "Media"
+ },
+ "nav.about": {
+  "en": "About",
+  "it": "Profilo"
+ },
+ "nav.menu": {
+  "en": "Menu",
+  "it": "Menu"
+ },
+ "nav.close": {
+  "en": "Close",
+  "it": "Chiudi"
+ },
+ "nav.label": {
+  "en": "Main",
+  "it": "Principale"
+ },
+ "nav.skip": {
+  "en": "Skip to content",
+  "it": "Vai al contenuto"
+ },
+ "lang.switch": {
+  "en": "Italiano",
+  "it": "English"
+ },
+ "lang.label": {
+  "en": "Language",
+  "it": "Lingua"
+ },
+ "title.books": {
+  "en": "Books",
+  "it": "Libri"
+ },
+ "title.papers": {
+  "en": "Papers",
+  "it": "Articoli"
+ },
+ "title.essays": {
+  "en": "Essays & journalism",
+  "it": "Saggi e giornalismo"
+ },
+ "title.stories": {
+  "en": "Stories & travelogues",
+  "it": "Racconti e reportage"
+ },
+ "title.events": {
+  "en": "Events",
+  "it": "Eventi"
+ },
+ "title.media": {
+  "en": "Media",
+  "it": "Media"
+ },
+ "title.about": {
+  "en": "About",
+  "it": "Profilo"
+ },
+ "title.privacy": {
+  "en": "Privacy",
+  "it": "Privacy"
+ },
+ "title.404": {
+  "en": "Page not found",
+  "it": "Pagina non trovata"
+ },
+ "desc.home": {
+  "en": "Paolo Pecere, historian of philosophy and writer: books, papers, essays, travelogues and media.",
+  "it": "Paolo Pecere, storico della filosofia e scrittore: libri, articoli, saggi, reportage e media."
+ },
+ "desc.books": {
+  "en": "Books by Paolo Pecere: research, fiction and narrative non-fiction, textbooks.",
+  "it": "I libri di Paolo Pecere: ricerca, narrativa e saggistica narrativa, manuali."
+ },
+ "desc.papers": {
+  "en": "Journal articles, book chapters, reviews and encyclopedia entries by Paolo Pecere, with downloads.",
+  "it": "Articoli su rivista, capitoli di libro, recensioni e voci enciclopediche di Paolo Pecere, con i testi da scaricare."
+ },
+ "desc.essays": {
+  "en": "Essays, reviews and journalism by Paolo Pecere.",
+  "it": "Saggi, recensioni e articoli giornalistici di Paolo Pecere."
+ },
+ "desc.stories": {
+  "en": "Travelogues and short stories by Paolo Pecere.",
+  "it": "Reportage di viaggio e racconti di Paolo Pecere."
+ },
+ "desc.events": {
+  "en": "Upcoming and past events with Paolo Pecere.",
+  "it": "Eventi in programma e passati con Paolo Pecere."
+ },
+ "desc.media": {
+  "en": "Video and podcasts with Paolo Pecere.",
+  "it": "Video e podcast con Paolo Pecere."
+ },
+ "desc.about": {
+  "en": "About Paolo Pecere: biography, contacts and academic CV.",
+  "it": "Profilo di Paolo Pecere: biografia, contatti e CV accademico."
+ },
+ "home.recent_books": {
+  "en": "Recent books",
+  "it": "Libri recenti"
+ },
+ "home.all_books": {
+  "en": "All books",
+  "it": "Tutti i libri"
+ },
+ "home.recent_papers": {
+  "en": "Recent papers",
+  "it": "Articoli recenti"
+ },
+ "home.all_papers": {
+  "en": "All papers",
+  "it": "Tutti gli articoli"
+ },
+ "home.next_events": {
+  "en": "Upcoming events",
+  "it": "Prossimi eventi"
+ },
+ "home.all_events": {
+  "en": "All events",
+  "it": "Tutti gli eventi"
+ },
+ "home.more_about": {
+  "en": "Biography and contacts",
+  "it": "Biografia e contatti"
+ },
+ "home.latest": {
+  "en": "Latest",
+  "it": "Ultimi"
+ },
+ "home.see_all": {
+  "en": "See all {n}",
+  "it": "Vedi tutti ({n})"
+ },
+ "home.writing": {
+  "en": "Essays, stories, media",
+  "it": "Saggi, racconti, media"
+ },
+ "books.all": {
+  "en": "All",
+  "it": "Tutti"
+ },
+ "books.publisher_page": {
+  "en": "Publisher’s page",
+  "it": "Pagina dell’editore"
+ },
+ "books.download_excerpt": {
+  "en": "Download the excerpt (PDF)",
+  "it": "Scarica l’estratto (PDF)"
+ },
+ "books.view_category": {
+  "en": "View with descriptions",
+  "it": "Vedi con le descrizioni"
+ },
+ "books.count": {
+  "en": "{n} books",
+  "it": "{n} libri"
+ },
+ "list.filter_label": {
+  "en": "Search by title, journal or year",
+  "it": "Cerca per titolo, rivista o anno"
+ },
+ "list.filter_label_essays": {
+  "en": "Search by title, outlet or year",
+  "it": "Cerca per titolo, testata o anno"
+ },
+ "list.all": {
+  "en": "All",
+  "it": "Tutti"
+ },
+ "list.other": {
+  "en": "Other outlets",
+  "it": "Altre testate"
+ },
+ "list.none": {
+  "en": "Nothing matches your search.",
+  "it": "Nessun risultato per questa ricerca."
+ },
+ "list.count": {
+  "en": "{n} items",
+  "it": "{n} voci"
+ },
+ "list.with": {
+  "en": "with {name}",
+  "it": "con {name}"
+ },
+ "list.jump": {
+  "en": "Sections",
+  "it": "Sezioni"
+ },
+ "link.pdf": {
+  "en": "PDF",
+  "it": "PDF"
+ },
+ "link.docx": {
+  "en": "DOCX",
+  "it": "DOCX"
+ },
+ "link.doc": {
+  "en": "DOC",
+  "it": "DOC"
+ },
+ "link.png": {
+  "en": "Scan",
+  "it": "Scansione"
+ },
+ "link.jpg": {
+  "en": "Scan",
+  "it": "Scansione"
+ },
+ "link.link": {
+  "en": "Publisher’s page",
+  "it": "Pagina dell’editore"
+ },
+ "link.preprint": {
+  "en": "Preprint",
+  "it": "Preprint"
+ },
+ "link.part2": {
+  "en": "Part two",
+  "it": "Seconda parte"
+ },
+ "link.part3": {
+  "en": "Part three",
+  "it": "Terza parte"
+ },
+ "link.external": {
+  "en": "opens another site",
+  "it": "apre un altro sito"
+ },
+ "media.watch": {
+  "en": "Watch",
+  "it": "Guarda"
+ },
+ "media.listen": {
+  "en": "Listen",
+  "it": "Ascolta"
+ },
+ "events.upcoming": {
+  "en": "Upcoming",
+  "it": "In programma"
+ },
+ "events.past": {
+  "en": "Past events",
+  "it": "Eventi passati"
+ },
+ "events.none_upcoming": {
+  "en": "No events are scheduled at the moment.",
+  "it": "Al momento non ci sono eventi in programma."
+ },
+ "events.details": {
+  "en": "Event details",
+  "it": "Dettagli dell’evento"
+ },
+ "events.with": {
+  "en": "With {name}",
+  "it": "Con {name}"
+ },
+ "events.at": {
+  "en": "{time}",
+  "it": "ore {time}"
+ },
+ "about.contacts": {
+  "en": "Contacts",
+  "it": "Contatti"
+ },
+ "about.elsewhere": {
+  "en": "Elsewhere",
+  "it": "Altrove"
+ },
+ "about.portrait_alt": {
+  "en": "Portrait of Paolo Pecere",
+  "it": "Ritratto di Paolo Pecere"
+ },
+ "footer.contact": {
+  "en": "Contact",
+  "it": "Contatti"
+ },
+ "footer.sections": {
+  "en": "Sections",
+  "it": "Sezioni"
+ },
+ "footer.follow": {
+  "en": "Follow",
+  "it": "Segui"
+ },
+ "footer.privacy": {
+  "en": "Privacy",
+  "it": "Privacy"
+ },
+ "footer.top": {
+  "en": "Back to top",
+  "it": "Torna su"
+ },
+ "privacy.body": {
+  "en": [
+   "This website is a personal site that presents the work of Paolo Pecere. It does not use cookies, analytics or advertising, and it has no forms or user accounts.",
+   "Like any website, it is delivered by a hosting provider whose servers may record technical data needed to serve the pages (such as IP address, date and time, and the page requested) in their logs. The site owner does not use these data to identify visitors.",
+   "The fonts and images are served from this site itself. Links to publishers, journals, video and podcast platforms open external sites, each with its own privacy policy.",
+   "For any question about this page you can write to the address in the contacts."
+  ],
+  "it": [
+   "Questo è un sito personale che presenta il lavoro di Paolo Pecere. Non usa cookie, strumenti di analisi o pubblicità, e non ha moduli né account utente.",
+   "Come ogni sito, è distribuito da un fornitore di hosting i cui server possono registrare nei log i dati tecnici necessari a servire le pagine (indirizzo IP, data e ora, pagina richiesta). Il titolare del sito non usa questi dati per identificare i visitatori.",
+   "I caratteri tipografici e le immagini sono serviti da questo stesso sito. I link a editori, riviste, piattaforme video e podcast aprono siti esterni, ciascuno con la propria informativa sulla privacy.",
+   "Per qualsiasi domanda su questa pagina si può scrivere all’indirizzo indicato nei contatti."
+  ]
+ },
+ "404.body": {
+  "en": "This page does not exist, or it has moved.",
+  "it": "Questa pagina non esiste oppure è stata spostata."
+ },
+ "404.home": {
+  "en": "Go to the home page",
+  "it": "Vai alla home"
+ },
+ "list.filter_label_media": {
+  "en": "Search by title, series or guest",
+  "it": "Cerca per titolo, serie o ospite"
+ }
+}

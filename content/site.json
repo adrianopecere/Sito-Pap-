@@ -1,0 +1,151 @@
+{
+ "name": "Paolo Pecere",
+ "base_url": "https://www.paolopecere.it",
+ "role": {
+  "en": "Historian of philosophy and writer",
+  "it": "Storico della filosofia e scrittore"
+ },
+ "lead": {
+  "en": "Paolo Pecere is a historian of philosophy and a writer of fiction and literary non-fiction.",
+  "it": "Paolo Pecere è storico della filosofia e scrittore di narrativa e saggistica letteraria."
+ },
+ "bio": {
+  "en": [
+   "He is associate professor at the University of Roma Tre.",
+   "His last scholarly book is <em>Soul, Mind and Brain from Descartes to Cognitive Science</em> (Springer 2020).",
+   "His first novel <em>La vita lontana</em> was published in 2018 and he is the author of <em>Risorgere</em> (2019) and <em>Il dio che danza</em> (2021)."
+  ],
+  "it": [
+   "È professore associato all’Università Roma Tre.",
+   "Il suo ultimo libro accademico è <em>Soul, Mind and Brain from Descartes to Cognitive Science</em> (Springer 2020).",
+   "Il suo primo romanzo, <em>La vita lontana</em>, è uscito nel 2018; è autore di <em>Risorgere</em> (2019) e <em>Il dio che danza</em> (2021)."
+  ]
+ },
+ "email": "paolopatch@gmail.com",
+ "contacts": [
+  {
+   "label": {
+    "en": "Email",
+    "it": "Email"
+   },
+   "text": "paolopatch@gmail.com",
+   "url": "mailto:paolopatch@gmail.com"
+  },
+  {
+   "label": {
+    "en": "Teaching",
+    "it": "Insegnamento"
+   },
+   "text": {
+    "en": "University of Roma Tre",
+    "it": "Università Roma Tre"
+   },
+   "url": "https://www.uniroma3.it/persone/MEo5VkxIZGk5NCtMYy8yRXl4SjFXeHBRVzJLQUF2cno2NXppcHptZ2lvWT0=/ricevimento/"
+  },
+  {
+   "label": {
+    "en": "Rights",
+    "it": "Diritti"
+   },
+   "text": "Pietrosanti Agenzia Letteraria",
+   "url": "https://www.pietrosantiagenzia.com/pecere"
+  },
+  {
+   "label": {
+    "en": "Academic CV",
+    "it": "CV accademico"
+   },
+   "text": {
+    "en": "Download (DOCX, in English)",
+    "it": "Scarica (DOCX, in inglese)"
+   },
+   "url": "files/pecere-cv2024engl.docx"
+  }
+ ],
+ "social": [
+  {
+   "name": "Facebook",
+   "url": "https://www.facebook.com/paolo.pecere"
+  },
+  {
+   "name": "X",
+   "url": "https://twitter.com/paolopatch"
+  },
+  {
+   "name": "Instagram",
+   "url": "https://instagram.com/paolopatch"
+  }
+ ],
+ "portrait": "img/portrait.jpg",
+ "photos": {
+  "_help": "One entry per page key (home, books, books-research, books-fiction, books-textbooks, papers, essays, stories, events, media, about, privacy). 'default' is used when a page has no entry. 'src' is a file in public/assets/img/photos/ (a '-sm' version is used on phones when present). 'focus' is the CSS object-position that decides which part of the photo stays visible. 'caption' is optional.",
+  "home": {
+   "src": "bromo-wide.jpg",
+   "focus": "50% 74%",
+   "caption": {
+    "en": "Mount Bromo, Java",
+    "it": "Monte Bromo, Giava"
+   }
+  },
+  "books": {
+   "src": "bromo-mist.jpg",
+   "focus": "50% 30%",
+   "caption": {
+    "en": "Mount Bromo, Java",
+    "it": "Monte Bromo, Giava"
+   }
+  },
+  "books-research": {
+   "src": "lago-altopiano.jpg",
+   "focus": "50% 62%"
+  },
+  "books-fiction": {
+   "src": "dune-rosa.jpg",
+   "focus": "50% 45%"
+  },
+  "books-textbooks": {
+   "src": "fitz-roy-bosco.jpg",
+   "focus": "50% 45%",
+   "caption": {
+    "en": "Fitz Roy, Patagonia",
+    "it": "Fitz Roy, Patagonia"
+   }
+  },
+  "papers": {
+   "src": "altopiano.jpg",
+   "focus": "50% 88%"
+  },
+  "essays": {
+   "src": "fitz-roy-strada.jpg",
+   "focus": "50% 52%",
+   "caption": {
+    "en": "Fitz Roy, Patagonia",
+    "it": "Fitz Roy, Patagonia"
+   }
+  },
+  "stories": {
+   "src": "dune-oasi.jpg",
+   "focus": "50% 52%"
+  },
+  "events": {
+   "src": "torres-del-paine.jpg",
+   "focus": "50% 62%",
+   "caption": {
+    "en": "Torres del Paine, Patagonia",
+    "it": "Torres del Paine, Patagonia"
+   }
+  },
+  "media": {
+   "src": "lago-vento.jpg",
+   "focus": "50% 40%"
+  },
+  "about": {
+   "src": "patagonia.jpg",
+   "focus": "50% 45%"
+  },
+  "default": {
+   "src": "terra-crepata.jpg",
+   "focus": "50% 50%"
+  }
+ }
+}

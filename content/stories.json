@@ -1,0 +1,152 @@
+{
+ "sections": [
+  {
+   "id": "travelogues",
+   "title": {
+    "en": "Travelogues",
+    "it": "Reportage di viaggio"
+   },
+   "items": [
+    {
+     "title": "Il ritorno dei funghi magici",
+     "outlet": "Lucy",
+     "year": 2024,
+     "url": "https://lucysullacultura.com/il-ritorno-dei-funghi-magici/"
+    },
+    {
+     "title": "La via delle renne",
+     "outlet": "Il Tascabile",
+     "year": 2024,
+     "url": "https://www.iltascabile.com/letterature/la-via-delle-renne/"
+    },
+    {
+     "title": "Il Buddha delle montagne",
+     "outlet": "GATE",
+     "year": 2024,
+     "url": "https://gategate.it/il-buddha-delle-montagne/"
+    },
+    {
+     "title": "Il senso delle pitture rupestri",
+     "outlet": "Il Tascabile",
+     "year": 2023,
+     "url": "https://www.iltascabile.com/scienze/il-senso-delle-pitture-rupestri/"
+    },
+    {
+     "title": "L'incanto della figlia della foresta",
+     "outlet": "Lucy",
+     "year": 2023,
+     "url": "https://lucysullacultura.com/lincanto-della-figlia-della-foresta/"
+    },
+    {
+     "title": "La Nigeria è una storia del futuro",
+     "outlet": "Il Tascabile",
+     "year": 2022,
+     "url": "https://www.iltascabile.com/scienze/nigeria/"
+    },
+    {
+     "title": "Lo sguardo dei gorilla",
+     "outlet": "Il Tascabile",
+     "year": 2022,
+     "url": "https://www.iltascabile.com/scienze/gorilla-ruanda/"
+    },
+    {
+     "title": "Voci dell'Amazzonia",
+     "outlet": "Il Tascabile",
+     "year": 2019,
+     "url": "https://www.iltascabile.com/scienze/voci-amazzonia/"
+    },
+    {
+     "title": "Fantasmi d'Asia",
+     "outlet": "Il Tascabile",
+     "year": 2019,
+     "url": "https://www.iltascabile.com/letterature/fantasmi-asia/"
+    },
+    {
+     "title": "Sulle tracce di Humboldt",
+     "outlet": "Il Tascabile",
+     "year": 2019,
+     "url": "https://www.iltascabile.com/scienze/humboldt-reportage-colombia/"
+    },
+    {
+     "title": "Brasile, identità e trasformazione",
+     "outlet": "Il Tascabile",
+     "year": 2019,
+     "url": "https://www.iltascabile.com/societa/brasile-reportage/"
+    },
+    {
+     "title": "Tornare in Eritrea",
+     "outlet": "Il Tascabile",
+     "year": 2018,
+     "url": "https://www.iltascabile.com/societa/tornare-in-eritrea/"
+    },
+    {
+     "title": "Pakistan dionisiaco",
+     "outlet": "Il Tascabile",
+     "year": 2017,
+     "url": "https://www.iltascabile.com/societa/pakistan-dionisiaco/"
+    },
+    {
+     "title": "La Patagonia è un racconto mancato",
+     "outlet": "Il Tascabile",
+     "year": 2017,
+     "url": "https://www.iltascabile.com/societa/patagonia-racconto-mancato/"
+    }
+   ]
+  },
+  {
+   "id": "short-stories",
+   "title": {
+    "en": "Short stories",
+    "it": "Racconti"
+   },
+   "items": [
+    {
+     "title": "Caro Marcel",
+     "outlet": "Minimaetmoralia",
+     "year": 2016,
+     "url": "https://www.minimaetmoralia.it/wp/editoria/caro-marcel/"
+    },
+    {
+     "title": "Il dio a venire",
+     "outlet": "Nuovi argomenti 76",
+     "year": 2016
+    },
+    {
+     "title": "Hitchcock",
+     "outlet": "Nuovi argomenti 69",
+     "year": 2015,
+     "url": "files/hitchcock.pdf"
+    },
+    {
+     "title": "Hong Kong",
+     "outlet": "Nazione Indiana",
+     "year": 2007,
+     "url": "https://www.nazioneindiana.com/2007/03/22/hong-kong/",
+     "parts": [
+      {
+       "label": "parte seconda",
+       "url": "https://www.nazioneindiana.com/2007/03/22/hong-kong-parte-seconda/"
+      }
+     ]
+    },
+    {
+     "title": "2001 Prima del contatto",
+     "outlet": "Nazione Indiana",
+     "year": 2005,
+     "url": "https://www.nazioneindiana.com/2005/02/21/2001-prima-del-contatto/"
+    },
+    {
+     "title": "Non potevamo più",
+     "outlet": "Nazione indiana",
+     "year": 2005,
+     "url": "https://www.nazioneindiana.com/2005/01/27/non-potevamo-piu/"
+    },
+    {
+     "title": "Immersione",
+     "outlet": "Liberatura",
+     "year": 1995
+    }
+   ]
+  }
+ ]
+}

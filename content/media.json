@@ -1,0 +1,167 @@
+{
+ "sections": [
+  {
+   "id": "video",
+   "title": {
+    "en": "Video",
+    "it": "Video"
+   },
+   "items": [
+    {
+     "title": "Roma Tre incontra Adriana Cavarero",
+     "context": "Roma TRE - Filosofia",
+     "url": "https://www.youtube.com/watch?v=OaHo2OWryPE&t=3431s"
+    },
+    {
+     "title": "La mente degli animali da Cartesio a oggi",
+     "context": "Mondadori Education",
+     "url": "https://www.youtube.com/watch?v=AAsGjXgLxkQ&t=136s"
+    },
+    {
+     "title": "Viaggi mistici con Paolo Pecere",
+     "context": "IL BAZaR AtOMICo",
+     "url": "https://www.youtube.com/watch?v=yY4ZpdsdolY"
+    },
+    {
+     "title": "Danze terapeutiche con Paolo Pecere",
+     "context": "IL BAZaR AtOMICo",
+     "url": "https://www.youtube.com/watch?v=eB3E_WsLrhg&t=779s"
+    },
+    {
+     "title": "La questione del corpo tra scienze cognitive e fisicalismo",
+     "context": "Romanae Disputationes",
+     "url": "https://www.youtube.com/watch?v=Xbns8sNl8NQ&t=16s"
+    },
+    {
+     "title": "L'intelligenza delle piante",
+     "series": "Filosofia in dialogo",
+     "context": "(con Monica Gagliano)",
+     "url": "https://youtu.be/lOeAGXw2gfM"
+    },
+    {
+     "title": "Etica e ambiente",
+     "series": "Filosofia in dialogo",
+     "context": "(con Dale W. Jamieson)",
+     "url": "https://youtu.be/_52invJi6c8"
+    },
+    {
+     "title": "Kant e i due io",
+     "context": "(Università gregoriana)",
+     "url": "https://youtu.be/_k00arhq0YE"
+    },
+    {
+     "title": "Raccontare gli altri",
+     "series": "Filosofia in dialogo",
+     "context": "(con Claudia Durastanti)",
+     "url": "https://www.youtube.com/watch?v=9VtzR3xFeRw"
+    },
+    {
+     "title": "Relazioni: fisica quantistica e realtà",
+     "series": "Filosofia in dialogo",
+     "context": "(con Carlo Rovelli e Mauro Dorato)",
+     "url": "https://www.youtube.com/watch?v=tLpgBMZfShE&t=200s"
+    },
+    {
+     "title": "L'evoluzione imperfetta",
+     "series": "Filosofia in dialogo",
+     "context": "(con Telmo Pievani e Mario De Caro)",
+     "url": "https://www.youtube.com/watch?v=SAHqaoBMPgY"
+    },
+    {
+     "title": "La didattica interdisciplinare per le competenze: l'esempio della filosofia",
+     "context": "Mondadori Education",
+     "url": "https://www.youtube.com/watch?v=vfqFmZ68yBg&t=80s"
+    },
+    {
+     "title": "Descartes e le neuroscienze contemporanee",
+     "context": "Mondadori Education",
+     "url": "https://www.youtube.com/watch?v=ovkVxFzqRbc"
+    },
+    {
+     "title": "Platone nel Novecento (e oltre)",
+     "context": "(con Mauro Bonazzi, Raffaella Colombo, Riccardo Chiaradonna e Mario De Caro)",
+     "url": "https://www.youtube.com/watch?v=Wiu8axNh7yI"
+    },
+    {
+     "title": "Il dio che danza",
+     "context": "(con Vanni Santoni)",
+     "url": "https://www.youtube.com/watch?v=G7FbhICB5xg"
+    },
+    {
+     "title": "Che cos'è un viaggio o l'India",
+     "context": "Decamerette",
+     "url": "https://www.youtube.com/watch?v=G_53bJu69Bk"
+    },
+    {
+     "title": "Il viaggio delle baccanti",
+     "context": "Decamerette",
+     "url": "https://www.youtube.com/watch?v=X5w5vCBTy1o&t=395s"
+    },
+    {
+     "title": "Paesaggio e tutela",
+     "context": "Convitto Nazionale Roma",
+     "url": "https://www.youtube.com/watch?v=CYCbM3lzjQw"
+    },
+    {
+     "title": "Dall'estetica del paesaggio alla nascita dell'ecologia: Kant e von Humboldt",
+     "context": "Convitto Nazionale Roma",
+     "url": "https://www.youtube.com/watch?v=8CT7S6tiEVk"
+    },
+    {
+     "title": "Raccontare la mente",
+     "context": "(con Fuani Marino e Matteo De Giuli), TreccaniChannel",
+     "url": "https://www.youtube.com/watch?v=ZfVcj9ekf3o&t=40s"
+    },
+    {
+     "title": "Pandemia, profezia, critica",
+     "context": "Roma TRE",
+     "url": "https://www.youtube.com/watch?v=MCwam_FeyjE&t=1083s"
+    },
+    {
+     "title": "Una conversazione con Carlo Ginzburg",
+     "context": "(con Carlo Ginzburg e Matteo Duni)",
+     "url": "https://www.youtube.com/watch?v=wfrDgBzSPDo&t=91s"
+    }
+   ]
+  },
+  {
+   "id": "podcast",
+   "title": {
+    "en": "Podcasts",
+    "it": "Podcast"
+   },
+   "items": [
+    {
+     "title": "L'altro animale",
+     "series": "Festivaletteratura",
+     "context": "(All episodes 1-4)",
+     "url": "https://open.spotify.com/show/5JrrCu80zASkFFBwSP0oXG"
+    },
+    {
+     "title": "Il dio che danza",
+     "series": "Emons Record",
+     "context": "(Tutti gli episodi 1-7)",
+     "url": "https://open.spotify.com/show/4sWNzrBnYs5NPocNZgQXhj"
+    },
+    {
+     "title": "Immanuel Kant, Critica della Ragion Pura",
+     "series": "Maturadio",
+     "context": "(con Tiziana Scalabrin)",
+     "url": "https://www.raiplayradio.it/audio/2020/06/Maturadio-Filosofia-Kant-cc484f37-f671-469e-a40f-42b68f1f5d9f.html"
+    },
+    {
+     "title": "Immanuel Kant, Critica della Ragion Pratica e Critica del Giudizio",
+     "series": "Maturadio",
+     "context": "(con Beatrice Latella)",
+     "url": "https://www.raiplayradio.it/audio/2020/06/Maturadio-Filosofia-Immanuel-Kant-Critica-della-Ragion-Pratica-e-Critica-del-Giudizio-0059688a-a787-404c-9031-8e5c6ad072ab.html"
+    },
+    {
+     "title": "L'idealismo, Fichte e Schelling",
+     "series": "Maturadio",
+     "context": "(con Beatrice Latella)",
+     "url": "https://www.raiplayradio.it/audio/2020/06/Maturadio-Filosofia-Idealismo-tedesco-327e7cd1-fd63-4f31-a6da-fd38f527d2e5.html"
+    }
+   ]
+  }
+ ]
+}

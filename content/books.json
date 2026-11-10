@@ -1,0 +1,314 @@
+{
+ "categories": [
+  {
+   "id": "research",
+   "slug": "research",
+   "title": {
+    "en": "Research",
+    "it": "Ricerca"
+   }
+  },
+  {
+   "id": "fiction",
+   "slug": "fiction-and-narrative-non-fiction",
+   "title": {
+    "en": "Fiction & narrative non-fiction",
+    "it": "Narrativa e saggistica narrativa"
+   }
+  },
+  {
+   "id": "textbooks",
+   "slug": "textbooks",
+   "title": {
+    "en": "Textbooks",
+    "it": "Manuali"
+   }
+  }
+ ],
+ "recent": [
+  "il-senso-della-natura",
+  "el-sentido-de-la-naturaleza",
+  "mechanism-life-and-mind",
+  "la-natura-della-mente",
+  "il-dio-che-danza",
+  "soul-mind-and-brain",
+  "risorgere"
+ ],
+ "books": [
+  {
+   "id": "la-natura-della-mente",
+   "category": "research",
+   "title": "La natura della mente. Da Cartesio alle scienze cognitive",
+   "cover": "img/covers/la-natura-della-mente.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "Che cos’è la mente? Che rapporto ha con il corpo? Quali sono le basi delle capacità cognitive e dell’identità personale? Il volume presenta una storia critica delle ricerche in merito dal Seicento a oggi mettendo in evidenza gli elementi di continuità e discontinuità tra gli studi contemporanei e gli antecedenti moderni. Offre inoltre esposizioni critiche e aggiornate delle opere di autori classici come Cartesio, Spinoza, Locke, Kant e Freud, ed esamina i fondamenti filosofici dei modelli delle neuroscienze cognitive, prestando particolare attenzione a questioni quali l’interpretazione metafisica dei dati scientifici, il riduzionismo materialistico e la mente animale.",
+    "en": "What is the mind? How does it relate to the body? What are the foundations of our cognitive capacities and of personal identity? This volume offers a critical history of research on these questions from the seventeenth century to the present, highlighting the continuities and discontinuities between contemporary studies and their modern antecedents. It also provides critical, up-to-date accounts of the works of classic authors such as Descartes, Spinoza, Locke, Kant and Freud, and examines the philosophical foundations of the models of cognitive neuroscience, with particular attention to issues such as the metaphysical interpretation of scientific data, materialist reductionism and the animal mind."
+   },
+   "url": "https://www.carocci.it/prodotto/la-natura-della-mente"
+  },
+  {
+   "id": "mechanism-life-and-mind",
+   "category": "research",
+   "title": "Mechanism, Life and Mind in Modern Natural Philosophy",
+   "cover": "img/covers/mechanism-life-and-mind.jpg",
+   "original_language": "en",
+   "desc": {
+    "en": "This volume emphasizes the diversity and fruitfulness of early modern mechanism as a program, as a concept, as a model. Mechanistic study of the living body but also of the mind and mental processes are examined in careful historical focus, dealing with figures ranging from the first-rank (Bacon, Descartes, Spinoza, Cudworth, Gassendi, Locke, Leibniz, Kant) to less well-known individuals (Scaliger, Martini) or prominent natural philosophers who have been neglected in recent years (Willis, Steno, etc.). The volume moves from early modern medicine and physiology to late Enlightenment and even early 19th-century psychology.",
+    "it": "Il volume mette in luce la varietà e la fecondità del meccanicismo della prima età moderna come programma, come concetto e come modello. Lo studio meccanicistico del corpo vivente, ma anche della mente e dei processi mentali, è esaminato con attenzione storica attraverso figure di primo piano (Bacone, Cartesio, Spinoza, Cudworth, Gassendi, Locke, Leibniz, Kant), autori meno noti (Scaligero, Martini) e filosofi naturali di rilievo trascurati negli ultimi anni (Willis, Stenone e altri). Il percorso va dalla medicina e dalla fisiologia della prima età moderna fino al tardo Illuminismo e alla psicologia del primo Ottocento."
+   },
+   "url": "https://link.springer.com/book/10.1007/978-3-031-07036-5"
+  },
+  {
+   "id": "soul-mind-and-brain",
+   "category": "research",
+   "title": "Soul, Mind and Brain from Descartes to Cognitive Science",
+   "cover": "img/covers/soul-mind-and-brain.jpg",
+   "original_language": "en",
+   "desc": {
+    "en": "This interdisciplinary book ties the historical work of Descartes to his successors through current research and critical overviews on the neuroscience of consciousness, the brain, and cognition. This text is the first historical survey to focus on the cohesions and discontinuities between historical and contemporary thinkers working in philosophy, physiology, psychology, and neuroscience.",
+    "it": "Questo libro interdisciplinare collega l’opera storica di Cartesio ai suoi successori attraverso la ricerca attuale e rassegne critiche sulle neuroscienze della coscienza, del cervello e della cognizione. È la prima ricognizione storica dedicata alle continuità e alle discontinuità tra pensatori del passato e contemporanei nei campi della filosofia, della fisiologia, della psicologia e delle neuroscienze."
+   },
+   "url": "https://www.springer.com/gp/book/9783030514624"
+  },
+  {
+   "id": "il-libro-della-natura-1",
+   "category": "research",
+   "title": "Il libro della natura, vol. I",
+   "cover": "img/covers/il-libro-della-natura-1.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "La filosofia e le scienze moderne si radicano storicamente in uno stesso campo di indagine e continuano spesso ad affrontare questioni comuni. Il libro mette in evidenza questa omogeneità, esaminando teorie e problemi fondamentali della scienza moderna.",
+    "en": "Philosophy and the modern sciences are historically rooted in the same field of inquiry and often continue to address common questions. The book brings out this kinship by examining fundamental theories and problems of modern science."
+   },
+   "url": "http://www.carocci.it/index.php?option=com_carocci&task=schedalibro&Itemid=72&isbn=9788843078332"
+  },
+  {
+   "id": "il-libro-della-natura-2",
+   "category": "research",
+   "title": "Il libro della natura, vol. II",
+   "cover": "img/covers/il-libro-della-natura-2.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "La filosofia e le scienze moderne si sono sviluppate a partire da uno stesso campo di indagine e continuano ad affrontare questioni comuni, ma oggi sono spesso considerate come due forme di conoscenza del tutto eterogenee. Il volume mette in evidenza la loro omogeneità, esaminando i problemi e le teorie che più hanno sollecitato la riflessione filosofica sulle scienze del XX secolo.",
+    "en": "Philosophy and the modern sciences grew out of the same field of inquiry and continue to address common questions, yet today they are often regarded as two entirely different forms of knowledge. The volume brings out their kinship by examining the problems and theories that most stimulated philosophical reflection on the sciences in the twentieth century."
+   },
+   "url": "http://www.carocci.it/index.php?option=com_carocci&task=schedalibro&Itemid=72&isbn=9788843078332"
+  },
+  {
+   "id": "dalla-parte-di-alice",
+   "category": "research",
+   "title": "Dalla parte di Alice",
+   "cover": "img/covers/dalla-parte-di-alice.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "Questo libro affronta un tema centrale della cultura filosofica e letteraria moderna, l'intreccio tra identità personale e immaginario narrativo, individuandovi un'ambivalenza cruciale: la possibilità che l'immaginario, per un verso, serva da esperienza di rielaborazione della realtà e della vita individuale e, per l'altro, risulti luogo di occultamento della realtà e alienazione.",
+    "en": "This book addresses a central theme of modern philosophical and literary culture, the interweaving of personal identity and narrative imagination, and identifies a crucial ambivalence in it: the imaginary can serve as a way of reworking reality and individual life, but it can also become a place where reality is concealed and alienation takes hold."
+   },
+   "url": "https://www.mimesisedizioni.it/libro/9788857528021"
+  },
+  {
+   "id": "quaestio-il-libro-filosofico",
+   "category": "research",
+   "title": "Quaestio. Il libro filosofico dall'antichità al XXI secolo",
+   "cover": "img/covers/quaestio-il-libro-filosofico.jpg",
+   "original_language": "en",
+   "desc": {
+    "en": "A collection of essays on philosophy and the books (structure, production, transmission and reception of philosophical books) from papyri to digital media.",
+    "it": "Una raccolta di saggi sulla filosofia e i libri (struttura, produzione, trasmissione e ricezione del libro filosofico), dai papiri ai media digitali."
+   },
+   "url": "http://www.quaestio.info/edizioni/quaestio-11-it"
+  },
+  {
+   "id": "meccanica-quantistica",
+   "category": "research",
+   "title": "Meccanica quantistica, rappresentazione, realtà",
+   "cover": "img/covers/meccanica-quantistica.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "La meccanica quantistica è una delle teorie più potenti ed efficaci della scienza contemporanea, ma nello stesso tempo è stata accompagnata fin dall’inizio da un serrato dibattito intorno alla sua interpretazione e alla sua validità definitiva. Gli autori descrivono i nodi irrisolti della formulazione fisico-matematica della teoria e propongono un ripensamento delle sue diverse interpretazioni.",
+    "en": "Quantum mechanics is one of the most powerful and successful theories of contemporary science, yet from the outset it has been accompanied by intense debate about its interpretation and its ultimate validity. The authors describe the unresolved issues in the physical and mathematical formulation of the theory and propose a rethinking of its various interpretations."
+   },
+   "url": "https://bibliopolis.it/shop/meccanica-quantistica-rappresentazione-realta/"
+  },
+  {
+   "id": "la-filosofia-della-natura-in-kant",
+   "category": "research",
+   "title": "La filosofia della natura in Kant",
+   "cover": "img/covers/la-filosofia-della-natura-in-kant.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "Una ricostruzione complessiva della filosofia della natura kantiana, dalle opere giovanili fino agli ultimi manoscritti.",
+    "en": "A comprehensive reconstruction of Kant's philosophy of nature, from the early works to the last manuscripts."
+   },
+   "url": "https://www.paginasc.it/articolo_desc.php?id_art=630&t=la-filosofia-della-natura-in-kant"
+  },
+  {
+   "id": "demonstrative-and-non-demonstrative-reasoning",
+   "category": "research",
+   "title": "Demonstrative and Non-demonstrative Reasoning in Mathematics and Natural Science",
+   "cover": "img/covers/demonstrative-and-non-demonstrative-reasoning.jpg",
+   "original_language": null,
+   "desc": {},
+   "url": "https://www.worldcat.org/title/demonstrative-and-non-demonstrative-reasoning-in-mathematics-and-natural-science-workshop-university-of-rome-la-sapienza-rome-villa-mirafiori-16-17-june-2005/oclc/876550731"
+  },
+  {
+   "id": "principi-metafisici-della-scienza-della-natura",
+   "category": "research",
+   "title": "Principi metafisici della scienza della natura",
+   "cover": "img/covers/principi-metafisici-della-scienza-della-natura.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "Traduzione dell’opera kantiana destinata a collegare la “Critica della ragion pura” con la fisica (con testo a fronte, saggio introduttivo e apparati).",
+    "en": "A translation of the work in which Kant set out to connect the “Critique of Pure Reason” with physics (with facing German text, an introductory essay and critical apparatus)."
+   },
+   "url": "https://www.bompiani.it/catalogo/principi-metafisici-della-scienza-della-natura-testo-tedesco-a-fronte-9788845292569"
+  },
+  {
+   "id": "l-anello-che-non-tiene",
+   "category": "research",
+   "title": "L'anello che non tiene",
+   "cover": "img/covers/l-anello-che-non-tiene.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "Il libro affronta l'incredibile vicenda che in Italia è toccata in sorte a J.R.R. Tolkien: a partire dagli anni Settanta l'autore del Signore degli Anelli è stato oggetto nel nostro Paese di una bizzarra strumentalizzazione.",
+    "en": "The book tells the incredible story of what befell J.R.R. Tolkien in Italy: from the 1970s onwards, the author of The Lord of the Rings became the object of a bizarre instrumentalisation in this country."
+   }
+  },
+  {
+   "id": "il-senso-della-natura",
+   "category": "fiction",
+   "title": "Il senso della natura. Sette sentieri per la terra",
+   "cover": "img/covers/il-senso-della-natura.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "Guardare negli occhi un orango, un polpo, uno squalo balena. Mettersi in cammino per capire un deserto, una foresta o una catena montuosa attraversando le tradizioni del pensiero umano. Muoversi da New York alle Galápagos, dall’Islanda al Borneo, dal Ruanda al Tibet, per immergersi nella nostra casa, il pianeta che dobbiamo amministrare.Un pianeta di cui bisogna scrivere il futuro: negli ultimi anni è stato riconosciuto l’impatto distruttivo della civiltà umana sulla natura, reso evidente da catastrofi climatiche, estinzioni di intere specie animali, desertificazione e scomparsa di paesaggi. La scoperta di una cura del mondo, una nuova definizione dell’ecologia, quella «scienza magnifica che è diventata triste», hanno bisogno di una visione del futuro che immagini altri modi di percepire la natura, e di un recupero della nostra memoria biologica che ci faccia avvertire l’unione indissolubile, vivente, organica e inorganica di tutto ciò che esiste sulla Terra.",
+    "en": "Looking an orangutan, an octopus or a whale shark in the eye. Setting out to understand a desert, a forest or a mountain range by way of the traditions of human thought. Travelling from New York to the Galápagos, from Iceland to Borneo, from Rwanda to Tibet, to immerse ourselves in our home, the planet we are called to look after. A planet whose future has yet to be written: in recent years we have come to recognise the destructive impact of human civilisation on nature, made evident by climate catastrophes, the extinction of entire animal species, desertification and the disappearance of landscapes. The discovery of a way of caring for the world and a new definition of ecology, that “magnificent science that has become sad”, call for a vision of the future that imagines other ways of perceiving nature, and for a recovery of our biological memory that lets us feel the indissoluble, living, organic and inorganic unity of everything that exists on Earth."
+   },
+   "url": "https://sellerio.it/it/catalogo/Senso-Natura-Sette-Sentieri-Terra/Pecere/15465"
+  },
+  {
+   "id": "el-sentido-de-la-naturaleza",
+   "category": "fiction",
+   "title": "El sentido de la naturaleza. Siete sendas por la tierra",
+   "cover": "img/covers/el-sentido-de-la-naturaleza.jpg",
+   "original_language": "es",
+   "desc": {
+    "en": "An invitation to rediscover and rethink our bond with nature, to learn once again to feel and contemplate it with respect and wonder, and to seek a new definition of ecology.",
+    "it": "Un invito a riscoprire e ripensare il nostro legame con la natura, a imparare di nuovo a sentirla e contemplarla con rispetto e ammirazione, e a cercare una nuova definizione dell’ecologia.",
+    "es": "Una invitación a redescubrir y repensar nuestro vínculo con la naturaleza, a aprender de nuevo a sentirla y contemplarla con respeto y admiración, y a buscar una nueva definición de la ecología."
+   },
+   "url": "https://www.anagrama-ed.es/libro/argumentos/el-sentido-de-la-naturaleza/9788433947635/A_629"
+  },
+  {
+   "id": "il-dio-che-danza",
+   "category": "fiction",
+   "title": "Il dio che danza",
+   "cover": "img/covers/il-dio-che-danza.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "Il dio che danza racconta i viaggi dell’autore sulle tracce di un fenomeno antichissimo e universale: la trance da possessione indotta dalla danza e dalla musica. Nell’antica Grecia veniva praticata in nome di Dioniso, il “dio folle” di Omero. Ma Dioniso era anche “dispensatore di gioia”: il dio “che scioglie”, “che libera”, lasciando che la vita rompa i margini fragili dell’io e delle norme sociali.",
+    "en": "Il dio che danza (The Dancing God) recounts the author's journeys in search of an ancient and universal phenomenon: the possession trance induced by dance and music. In ancient Greece it was practised in the name of Dionysus, Homer's “mad god”. But Dionysus was also the “giver of joy”: the god “who loosens”, “who sets free”, letting life break through the fragile boundaries of the self and of social norms."
+   },
+   "url": "https://www.edizioninottetempo.it/it/il-dio-che-danza"
+  },
+  {
+   "id": "risorgere",
+   "category": "fiction",
+   "title": "Risorgere",
+   "cover": "img/covers/risorgere.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "“Nell’anno dell’anniversario di Tienanmen, un romanzo che ci interroga su quel passato tragico e sul futuro dell’Europa, tra ideali traditi e ricerca di riscatto. Da Roma alle montagne himalayane, da Berlino a Hong Kong, due generazioni seguono le tracce della violenza e dell’amore, in cerca di un nuovo inizio.”",
+    "en": "“In the year of the Tiananmen anniversary, a novel that questions us about that tragic past and about the future of Europe, between betrayed ideals and the search for redemption. From Rome to the Himalayan mountains, from Berlin to Hong Kong, two generations follow the traces of violence and love, in search of a new beginning.”"
+   },
+   "url": "http://www.chiarelettere.it/libro/narrazioni/risorgere-a97888329621.php"
+  },
+  {
+   "id": "la-vita-lontana",
+   "category": "fiction",
+   "title": "La vita lontana",
+   "cover": "img/covers/la-vita-lontana.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "“La vita lontana” ripercorre gli anni della crescita dei gemelli Marzio e Livio, dopo la nascita dei quali il padre, Elio, marito di Dora (la voce narrante) abbandona la famiglia per trasferirsi in India in un monastero jainista…”",
+    "en": "“La vita lontana” (The Distant Life) follows the years in which the twins Marzio and Livio grow up; after their birth their father Elio, the husband of Dora (the narrating voice), leaves the family to move to a Jain monastery in India…"
+   },
+   "url": "https://www.liberaria.it/catalogo/la-vita-lontana/"
+  },
+  {
+   "id": "litaly",
+   "category": "fiction",
+   "title": "LITaly, a Sampler of New Italian Writing in Translation",
+   "cover": "img/covers/litaly.jpg",
+   "original_language": "en",
+   "desc": {
+    "en": "A selection of excerpts from novels by Italian authors. Including fifteen pages of \"La vita lontana/The Distant Life\", translated by Olivia E. Sears.",
+    "it": "Una selezione di estratti da romanzi di autori italiani. Include quindici pagine di “La vita lontana/The Distant Life”, tradotte da Olivia E. Sears."
+   },
+   "downloads": [
+    "files/the-distant-life-excerpt.pdf"
+   ]
+  },
+  {
+   "id": "vivere-la-conoscenza",
+   "category": "textbooks",
+   "title": "Vivere la conoscenza",
+   "cover": "img/covers/vivere-la-conoscenza.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "Caratterizzato da un profilo chiaro e sintetico, ricco di esempi concreti, il manuale risulta facilmente studiabile in autonomia, completato da un’ampia scelta di testi ben commentati. L’interdisciplinarità, tratto distintivo dell’opera, si apre anche all’Educazione civica (con attenzione particolare ai temi Oriente-Occidente, Ambiente ed ecologia, Pensiero femminile).",
+    "en": "Clear and concise, and rich in concrete examples, the textbook is easy to study independently and is complemented by a wide selection of well-annotated texts. Its interdisciplinary approach, the hallmark of the work, also extends to civic education (with particular attention to the themes of East and West, environment and ecology, and women's thought)."
+   },
+   "url": "https://www.mondadorieducation.it/catalogo/vivere-la-conoscenza-0064711/"
+  },
+  {
+   "id": "filosofia-in-dialogo",
+   "category": "textbooks",
+   "title": "Filosofia in dialogo",
+   "cover": "img/covers/filosofia-in-dialogo.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "Un corso di filosofia agile ma completo, che volge lo sguardo all'attualità e all'interdisciplinarità per stimolare gli studenti e svilupparne il pensiero critico.",
+    "en": "A concise yet complete philosophy course that looks to current affairs and interdisciplinarity to engage students and develop their critical thinking."
+   },
+   "url": "https://www.mondadorieducation.it/catalogo/filosofia-in-dialogo-0064759/"
+  },
+  {
+   "id": "la-ricerca-della-conoscenza",
+   "category": "textbooks",
+   "title": "La ricerca della conoscenza",
+   "cover": "img/covers/la-ricerca-della-conoscenza.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "Manuale di Filosofia in sei tomi. Il corso propone un nuovo approccio allo studio della filosofia, che viene messa in connessione con altre discipline e diventa la base per sviluppare diverse competenze trasversali e formare cittadini consapevoli, responsabili, attivi: numerosi approfondimenti interdisciplinari collegano la filosofia alla storia, alla letteratura, all'arte e alla scienza, per valorizzare al massimo le potenzialità formative della materia.",
+    "en": "A philosophy textbook in six volumes. The course proposes a new approach to the study of philosophy, which is connected with other disciplines and becomes the basis for developing transferable skills and forming aware, responsible and active citizens: numerous interdisciplinary sections link philosophy to history, literature, art and science, to make the most of the subject's educational potential."
+   },
+   "url": "https://www.mondadorieducation.it/catalogo/filosofia-la-ricerca-della-conoscenza-0035842/"
+  },
+  {
+   "id": "le-vie-della-conoscenza",
+   "category": "textbooks",
+   "title": "Le vie della conoscenza",
+   "cover": "img/covers/le-vie-della-conoscenza.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "Un corso di Filosofia in tre volumi, ricco di spunti per garantire un approccio formativo alla materia: lo stile limpido e lineare della spiegazione accompagna nell'analisi non solo delle teorie filosofiche, ma anche dei contesti storici e culturali in cui le teorie furono prodotte. Il testo contiene approfondimenti interdisciplinari (che collegano la filosofia a storia, letteratura e scienza), analisi di opere d'arte e schede dedicate al pensiero femminile.",
+    "en": "A philosophy course in three volumes, full of prompts for a formative approach to the subject: the clear, linear style of exposition guides students through the analysis not only of philosophical theories but also of the historical and cultural contexts in which they were produced. The text includes interdisciplinary sections (linking philosophy to history, literature and science), analyses of works of art and profiles devoted to women's thought."
+   },
+   "url": "https://www.mondadorieducation.it/catalogo/le-vie-della-conoscenza-0058870/"
+  },
+  {
+   "id": "fisica-per-filosofi",
+   "category": "textbooks",
+   "title": "Fisica per filosofi",
+   "cover": "img/covers/fisica-per-filosofi.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "Il libro offre per la prima volta a studenti, professori e lettori interessati un’esposizione formalmente semplificata dei principi della fisica che, accompagnata da approfondimenti storico-filosofici, va dalla meccanica classica alle teorie di frontiera contemporanee passando per la termodinamica, le teorie della relatività e la meccanica quantistica.",
+    "en": "For the first time, the book offers students, teachers and interested readers a formally simplified exposition of the principles of physics which, accompanied by historical and philosophical insights, ranges from classical mechanics to today's frontier theories by way of thermodynamics, the theories of relativity and quantum mechanics."
+   },
+   "url": "http://www.carocci.it/index.php?option=com_carocci&task=schedalibro&Itemid=72&isbn=9788843099627"
+  }
+ ]
+}

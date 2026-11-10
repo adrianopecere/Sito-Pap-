@@ -1,0 +1,553 @@
+{
+ "items": [
+  {
+   "title": "Looking at the fog",
+   "outlet": "Nebula, Marsilio Arte",
+   "year": 2024,
+   "url": "files/2024-looking-at-the-fog.pdf",
+   "outlet_url": "https://www.marsilioarte.it/en/prodotti/nebula/"
+  },
+  {
+   "title": "Stati Uniti, la guerra in casa",
+   "outlet": "Lucy",
+   "year": 2024,
+   "url": "https://lucysullacultura.com/stati-uniti-la-guerra-in-casa/"
+  },
+  {
+   "title": "The Grotto, The Gesture, The Voice: A Quest for the Dancing God",
+   "outlet": "Sali e Tabacchi. 4. Voce",
+   "year": 2023,
+   "note": "with D. Milella",
+   "url": "files/sali-e-tabacchi-issue-4-grotta-copia.pdf"
+  },
+  {
+   "title": "Bevande che allontanano il dolore",
+   "outlet": "L'integrale 7, Metamorfosi",
+   "year": 2023,
+   "url": "https://www.lintegralerivista.it/titoli/metamorfosi/"
+  },
+  {
+   "title": "Inseguendo Carlo Ginzburg",
+   "outlet": "Lucy",
+   "year": 2023,
+   "url": "https://lucysullacultura.com/inseguendo-carlo-ginzburg/"
+  },
+  {
+   "title": "L'epidemia delle Baccanti",
+   "outlet": "Il Tascabile",
+   "year": 2023,
+   "url": "https://www.iltascabile.com/linguaggi/lepidemia-delle-baccanti/"
+  },
+  {
+   "title": "Alla ricerca delle basi fisiche ed emotive della coscienza",
+   "outlet": "Il Tascabile",
+   "year": 2023,
+   "url": "https://www.iltascabile.com/scienze/basi-della-coscienza/"
+  },
+  {
+   "title": "Il problema della mente",
+   "outlet": "Lucy",
+   "year": 2023,
+   "url": "https://lucysullacultura.com/il-problema-della-mente/"
+  },
+  {
+   "title": "Michel Leiris e lo specchio dell'etnologia",
+   "outlet": "Il Tascabile",
+   "year": 2023,
+   "url": "https://www.iltascabile.com/scienze/michel-leiris-e-lo-specchio-delletnologia/"
+  },
+  {
+   "title": "Il problema con Cartesio",
+   "outlet": "Il Tascabile",
+   "year": 2023,
+   "url": "https://www.iltascabile.com/scienze/cartesio/"
+  },
+  {
+   "title": "Alberto Moravia e l'apocalisse nucleare",
+   "outlet": "Il Tascabile",
+   "year": 2023,
+   "url": "https://www.iltascabile.com/letterature/moravia-apocalisse-nucleare/"
+  },
+  {
+   "title": "L'Eritrea, e come raccontarla",
+   "outlet": "Il Tascabile",
+   "year": 2023,
+   "url": "https://www.iltascabile.com/linguaggi/giartosio-tutto-quello-che-non-abbiamo-visto/"
+  },
+  {
+   "title": "Capire e amare l'altro animale",
+   "outlet": "Il Tascabile",
+   "year": 2023,
+   "url": "https://www.iltascabile.com/scienze/altro-animale-jamieson/"
+  },
+  {
+   "title": "Scrivere la scienza",
+   "outlet": "Il Tascabile",
+   "year": 2022,
+   "url": "https://www.iltascabile.com/scienze/david-quammen-scienza/"
+  },
+  {
+   "title": "Ripensare gli animali",
+   "outlet": "Rivista Studio",
+   "year": 2022,
+   "url": "https://store.rivistastudio.com/prodotto/rivista-studio-n52/"
+  },
+  {
+   "title": "Niente di vero di Veronica Raimo",
+   "outlet": "Il Tascabile",
+   "year": 2022,
+   "url": "https://www.iltascabile.com/recensioni/niente-di-vero-raimo/"
+  },
+  {
+   "title": "La lettera uccide di Carlo Ginzburg",
+   "outlet": "Il Tascabile",
+   "year": 2021,
+   "url": "https://www.iltascabile.com/recensioni/lettera-uccide-ginzburg/"
+  },
+  {
+   "title": "Il pensiero di tutti i viventi",
+   "outlet": "Il Tascabile",
+   "year": 2021,
+   "url": "https://www.iltascabile.com/scienze/il-pensiero-di-tutti-i-viventi/"
+  },
+  {
+   "title": "Il mondo di Lawrence Osborne",
+   "outlet": "Il Tascabile",
+   "year": 2021,
+   "url": "https://www.iltascabile.com/letterature/pecere-osborne/"
+  },
+  {
+   "title": "Cronache del nichilismo",
+   "outlet": "Il Tascabile",
+   "year": 2021,
+   "note": "intervista a Costantino Esposito",
+   "url": "https://www.iltascabile.com/linguaggi/nichilismo-esposito/"
+  },
+  {
+   "title": "L'estasi e il furore",
+   "outlet": "Il Tascabile",
+   "year": 2021,
+   "url": "https://www.iltascabile.com/linguaggi/dio-che-danza/"
+  },
+  {
+   "title": "Raccontare gli altri",
+   "outlet": "Il Tascabile",
+   "year": 2021,
+   "note": "con Claudia Durastanti",
+   "url": "https://www.iltascabile.com/letterature/raccontare-gli-altri/"
+  },
+  {
+   "title": "Riscoprire la realtà",
+   "outlet": "Il Tascabile",
+   "year": 2020,
+   "note": "intervista a Mario De Caro",
+   "url": "https://www.iltascabile.com/scienze/realta-scienza-filosofia/"
+  },
+  {
+   "title": "L'Africa fantasma di Michel Leiris",
+   "outlet": "Il Tascabile",
+   "year": 2020,
+   "url": "https://www.iltascabile.com/recensioni/africa-fantasma-leiris/"
+  },
+  {
+   "title": "La meccanica quantistica, la realtà fisica, la mente umana",
+   "outlet": "Il Tascabile",
+   "year": 2020,
+   "url": "https://www.iltascabile.com/scienze/rovelli-helgoland/"
+  },
+  {
+   "title": "L'età del capitalismo della sorveglianza",
+   "outlet": "Il Tascabile",
+   "year": 2020,
+   "url": "https://www.iltascabile.com/scienze/capitalismo-sorveglianza/"
+  },
+  {
+   "title": "Ripensare Thoreau",
+   "outlet": "Il Tascabile",
+   "year": 2020,
+   "url": "https://www.iltascabile.com/scienze/ripensare-thoreau/"
+  },
+  {
+   "title": "Parole sulla pandemia",
+   "outlet": "Il Tascabile",
+   "year": 2020,
+   "url": "https://www.iltascabile.com/linguaggi/parole-sulla-pandemia/"
+  },
+  {
+   "title": "Altre storie, altre menti",
+   "outlet": "Il Tascabile",
+   "year": 2020,
+   "url": "https://www.iltascabile.com/scienze/altre-storie-altre-menti/"
+  },
+  {
+   "title": "\"E' complicato\": il rapporto tra cervello, coscienza ed emozioni umane",
+   "outlet": "Il Tascabile",
+   "year": 2020,
+   "note": "intervista a Joseph E. LeDoux",
+   "url": "https://www.iltascabile.com/scienze/coscienza-emozioni-cervello-ledoux/"
+  },
+  {
+   "title": "La fine del mondo di Ernesto De Martino",
+   "outlet": "Il Tascabile",
+   "year": 2019,
+   "url": "https://www.iltascabile.com/recensioni/fine-mondo-de-martino/"
+  },
+  {
+   "title": "Il sussurro del mondo di Richard Powers",
+   "outlet": "Il Tascabile",
+   "year": 2019,
+   "url": "https://www.iltascabile.com/recensioni/sussurro-mondo-powers/"
+  },
+  {
+   "title": "Le colpe dei padri schivate dai figli",
+   "outlet": "Il Tascabile",
+   "year": 2019,
+   "note": "su I fratelli Michelangelo di Vanni Santoni",
+   "url": "https://www.iltascabile.com/letterature/vanni-santoni-fratelli/"
+  },
+  {
+   "title": "Dialogo sulla coscienza",
+   "outlet": "Il Tascabile",
+   "year": 2019,
+   "note": "con David Chalmers",
+   "url": "https://www.iltascabile.com/scienze/coscienza-chalmers/"
+  },
+  {
+   "title": "Nella mente del polpo",
+   "outlet": "Il Tascabile",
+   "year": 2018,
+   "note": "intervista a Peter Godfrey-Smith",
+   "url": "https://www.iltascabile.com/scienze/mente-polpo/"
+  },
+  {
+   "title": "Il giocattolo più bello",
+   "outlet": "Il Tascabile",
+   "year": 2018,
+   "note": "le Lezioni di letteratura di Vladimir Nabokov",
+   "url": "https://www.iltascabile.com/letterature/il-giocattolo-piu-bello/"
+  },
+  {
+   "title": "Il cervello raccontato",
+   "outlet": "Il Tascabile",
+   "year": 2018,
+   "url": "https://www.iltascabile.com/scienze/il-cervello-raccontato/"
+  },
+  {
+   "title": "Lo strano ordine delle cose di Antonio Damasio",
+   "outlet": "Il Tascabile",
+   "year": 2018,
+   "url": "https://www.iltascabile.com/recensioni/strano-ordine-cose-damasio/"
+  },
+  {
+   "title": "Giusto terrore di Alessandro Gazoia",
+   "outlet": "Il Tascabile",
+   "year": 2018,
+   "url": "https://www.iltascabile.com/recensioni/giusto-terrore-gazoia/"
+  },
+  {
+   "title": "Al di là dei confini di Eric Follath",
+   "outlet": "Il Tascabile",
+   "year": 2018,
+   "url": "https://www.iltascabile.com/recensioni/confini-eric-follath/"
+  },
+  {
+   "title": "Come pensano gli animali",
+   "outlet": "Il Tascabile",
+   "year": 2017,
+   "url": "https://www.iltascabile.com/scienze/come-pensano-animali/"
+  },
+  {
+   "title": "Filosofi nella storia",
+   "outlet": "Il Tascabile",
+   "year": 2017,
+   "url": "https://www.iltascabile.com/linguaggi/filosofi-nella-storia/"
+  },
+  {
+   "title": "La scienza può fare a meno della filosofia e della storia?",
+   "outlet": "Internazionale",
+   "year": 2015,
+   "url": "https://www.internazionale.it/weekend/2015/05/23/sette-brevi-lezioni-di-fisica-rovelli"
+  },
+  {
+   "title": "Quando il cervello somiglia all'anima",
+   "outlet": "Internazionale",
+   "year": 2015,
+   "url": "https://www.internazionale.it/opinione/paolo-pecere/2015/02/05/quando-il-cervello-somiglia-all-anima"
+  },
+  {
+   "title": "La scienza ridotta a oroscopo",
+   "outlet": "Internazionale",
+   "year": 2015,
+   "url": "https://www.internazionale.it/opinione/paolo-pecere/2015/01/22/la-scienza-ridotta-a-oroscopo"
+  },
+  {
+   "title": "Lo Hobbit, un tradimento durato tredici anni",
+   "outlet": "Internazionale",
+   "year": 2014,
+   "url": "https://www.internazionale.it/opinione/paolo-pecere/2014/12/20/lo-hobbit-un-tradimento-durato-tredici-anni"
+  },
+  {
+   "title": "L'invenzione della giovinezza al cinema",
+   "outlet": "Internazionale",
+   "year": 2014,
+   "url": "https://www.internazionale.it/opinione/paolo-pecere/2014/11/09/l-invenzione-della-giovinezza-al-cinema"
+  },
+  {
+   "title": "Strade che si separano",
+   "outlet": "Il blog di Einaudi",
+   "year": 2016,
+   "note": "su Io e Mabel di Helen Macdonald",
+   "url": "https://biancamano2.einaudi.it/narrativa-straniera-frontiere/pecere/"
+  },
+  {
+   "title": "Ecologia decadente",
+   "outlet": "Prismo",
+   "year": 2016,
+   "url": "http://www.prismomag.com/ecologia-decadente/"
+  },
+  {
+   "title": "Alice per sempre",
+   "outlet": "Prismo",
+   "year": 2015,
+   "url": "http://www.prismomag.com/alice-carroll-influenza/"
+  },
+  {
+   "title": "'Remoria' di Valerio Mattioli è una narrazione ucronica, un \"what if\" di Roma",
+   "outlet": "cheFare",
+   "year": 2019,
+   "url": "https://www.che-fare.com/roma-remoria-valerio-mattioli/"
+  },
+  {
+   "title": "La consulenza filosofica: esercizi per i nuovi socratici",
+   "outlet": "Nazione Indiana",
+   "year": 2006,
+   "url": "https://www.nazioneindiana.com/2006/12/05/la-consulenza-filosofica-esercizi-per-i-nuovi-socratici/"
+  },
+  {
+   "title": "Nuovo cinema post-paraculo: la destra maldestra che è in noi",
+   "outlet": "Nazione Indiana",
+   "year": 2004,
+   "url": "https://www.nazioneindiana.com/2004/11/10/nuovo-cinema-post-paraculo-la-destra-maldestra-che-e-in-noi/"
+  },
+  {
+   "title": "Nuovo cinema paraculo: come ti smonto e rimonto un'umanità da cani",
+   "outlet": "Nazione Indiana",
+   "year": 2003,
+   "url": "https://www.nazioneindiana.com/2003/12/28/nuovo-cinema-paraculo-come-ti-smonto-e-rimonto-unumanita-da-cani/"
+  },
+  {
+   "title": "Dio",
+   "outlet": "Il Sole 24 Ore",
+   "year": 2014,
+   "url": "https://st.ilsole24ore.com/art/cultura/2014-06-18/dio-150003.shtml?uuid=ABt2EOSB&refresh_ce=1"
+  },
+  {
+   "title": "Un vaffanculo vi seppellirà",
+   "outlet": "Minimaetmoralia",
+   "year": 2016,
+   "url": "https://www.minimaetmoralia.it/wp/interventi/un-vaffanculo-vi-seppellira/"
+  },
+  {
+   "title": "Lo spiegone di Interstellar: ovvero la fede scientifica e la chiacchiera spaziale",
+   "outlet": "Minimaetmoralia",
+   "year": 2014,
+   "url": "https://www.minimaetmoralia.it/wp/cinema/la-cafonaggine-di-interstellar-ovvero-fede-scientifica-e-la-chiacchiera-spaziale/"
+  },
+  {
+   "title": "Come raccontare il \"mistero\" degli atomi",
+   "outlet": "Minimaetmoralia",
+   "year": 2014,
+   "url": "https://www.minimaetmoralia.it/?p=20998"
+  },
+  {
+   "title": "Leggere tracce: il viaggio salvato dalla letteratura",
+   "outlet": "Minimaetmoralia",
+   "year": 2014,
+   "url": "https://www.minimaetmoralia.it/?p=18811"
+  },
+  {
+   "title": "Il cervello e la responsabilità",
+   "outlet": "Minimaetmoralia",
+   "year": 2013,
+   "url": "https://www.minimaetmoralia.it/?p=16843"
+  },
+  {
+   "title": "Dalla parte di Alice-il corpo e l'immaginario cinematografico 11: Inland Empire",
+   "outlet": "Minimaetmoralia",
+   "year": 2013,
+   "url": "https://www.minimaetmoralia.it/?p=13288"
+  },
+  {
+   "title": "Le neuroscienze e la coscienza in Damasio",
+   "outlet": "Minimaetmoralia",
+   "year": 2013,
+   "url": "https://www.minimaetmoralia.it/?p=13187"
+  },
+  {
+   "title": "Dalla parte di Alice-il corpo e l'immaginario cinematografico 10: Mulholland drive",
+   "outlet": "Minimaetmoralia",
+   "year": 2013,
+   "url": "https://www.minimaetmoralia.it/?p=12922"
+  },
+  {
+   "title": "Dalla parte di Alice-il corpo e l'immaginario cinematografico 9: Twin peaks",
+   "outlet": "Minimaetmoralia",
+   "year": 2013,
+   "url": "https://www.minimaetmoralia.it/?p=12610"
+  },
+  {
+   "title": "Dalla parte di Alice-il corpo e l'immaginario cinematografico 8: Werner Herzog seconda parte",
+   "outlet": "Minimaetmoralia",
+   "year": 2013,
+   "url": "https://www.minimaetmoralia.it/?p=12491"
+  },
+  {
+   "title": "Dalla parte di Alice-il corpo e l'immaginario cinematografico 7: Werner Herzog",
+   "outlet": "Minimaetmoralia",
+   "year": 2013,
+   "url": "https://www.minimaetmoralia.it/?p=12371"
+  },
+  {
+   "title": "Dalla parte di Alice-il corpo e l'immaginario cinematografico 6: Kubrick, quarta parte",
+   "outlet": "Minimaetmoralia",
+   "year": 2013,
+   "url": "https://www.minimaetmoralia.it/?p=12218"
+  },
+  {
+   "title": "Immagini del Buddha",
+   "outlet": "Minimaetmoralia",
+   "year": 2012,
+   "url": "https://www.minimaetmoralia.it/?p=12175"
+  },
+  {
+   "title": "Dalla parte di Alice-il corpo e l'immaginario cinematografico 5: Kubrick, terza parte",
+   "outlet": "Minimaetmoralia",
+   "year": 2012,
+   "url": "https://www.minimaetmoralia.it/?p=12096"
+  },
+  {
+   "title": "New Realism: Un dialogo con Antonio Gramsci",
+   "outlet": "Minimaetmoralia",
+   "year": 2012,
+   "url": "https://www.minimaetmoralia.it/?p=12015"
+  },
+  {
+   "title": "Dalla parte di Alice-il corpo e l'immaginario cinematografico 4: Kubrick, seconda parte",
+   "outlet": "Minimaetmoralia",
+   "year": 2012,
+   "url": "https://www.minimaetmoralia.it/?p=11883"
+  },
+  {
+   "title": "Dalla parte di Alice-il corpo e l'immaginario cinematografico 3: Kubrick",
+   "outlet": "Minimaetmoralia",
+   "year": 2012,
+   "url": "https://www.minimaetmoralia.it/?p=11759"
+  },
+  {
+   "title": "Dalla parte di Alice-il corpo e l'immaginario cinematografico 2: Avatar",
+   "outlet": "Minimaetmoralia",
+   "year": 2012,
+   "url": "https://www.minimaetmoralia.it/?p=11579"
+  },
+  {
+   "title": "Dalla parte di Alice-il corpo e l'immaginario cinematografico",
+   "outlet": "Minimaetmoralia",
+   "year": 2012,
+   "url": "https://www.minimaetmoralia.it/?p=11343"
+  },
+  {
+   "title": "Teoria e pratica del primitivismo",
+   "outlet": "Minimaetmoralia",
+   "year": 2012,
+   "url": "https://www.minimaetmoralia.it/?p=9776"
+  },
+  {
+   "title": "Un altro tempo ha luogo: un dilemma etico nelle immagini di McCurry",
+   "outlet": "Minimaetmoralia",
+   "year": 2011,
+   "url": "https://www.minimaetmoralia.it/?p=6010"
+  },
+  {
+   "title": "I segreti di Twin peaks (II parte)",
+   "outlet": "Minimaetmoralia",
+   "year": 2009,
+   "url": "https://www.minimaetmoralia.it/?p=742"
+  },
+  {
+   "title": "I segreti di Twin peaks",
+   "outlet": "Minimaetmoralia",
+   "year": 2009,
+   "url": "https://www.minimaetmoralia.it/wp/approfondimenti/i-segreti-di-twin-peaks-i-parte/"
+  },
+  {
+   "title": "Primitivismo da Lonely Planet",
+   "outlet": "Orwell",
+   "year": 2012,
+   "url": "files/orwell-primitivismo.png"
+  },
+  {
+   "title": "Werner Herzog, Oltre la vita",
+   "outlet": "Orwell",
+   "year": 2012,
+   "url": "files/orwell-herzog-1.png",
+   "parts": [
+    {
+     "label": "parte seconda",
+     "url": "files/orwell-herzog-2.png"
+    }
+   ]
+  },
+  {
+   "title": "Damasio fa il punto sulle neuroscienze",
+   "outlet": "Orwell",
+   "year": 2012,
+   "url": "files/orwell-damasio-1.png",
+   "parts": [
+    {
+     "label": "parte seconda",
+     "url": "files/orwell-damasio-2.png"
+    }
+   ]
+  },
+  {
+   "title": "Budda filosofo",
+   "outlet": "Orwell",
+   "year": 2012,
+   "url": "files/orwell-budda-1.png",
+   "parts": [
+    {
+     "label": "parte seconda",
+     "url": "files/orwell-budda-2.png"
+    }
+   ]
+  },
+  {
+   "title": "Coffee break con Gramsci: che mi dici del New Realism?",
+   "outlet": "Orwell",
+   "year": 2012,
+   "url": "files/orwell-nuovo-realismo-1.png",
+   "parts": [
+    {
+     "label": "parte seconda",
+     "url": "files/orwell-nuovo-realismo-2.png"
+    },
+    {
+     "label": "parte terza",
+     "url": "files/orwell-nuovo-realismo-3.png"
+    }
+   ]
+  },
+  {
+   "title": "Che cosa vuol dire \"Lynchiano\"",
+   "outlet": "Orwell",
+   "year": 2012,
+   "url": "files/orwell-che-cos-e-lynchiano-1.png",
+   "parts": [
+    {
+     "label": "parte seconda",
+     "url": "files/orwell-che-cos-e-lynchiano-2.png"
+    }
+   ]
+  }
+ ]
+}
