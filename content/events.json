@@ -1,5 +1,7 @@
 {
  "_help": "One object per event, in any order. Required: date (YYYY-MM-DD) and title. Optional: time (HH:MM), end_date, venue, city, with (other speakers), description, url (link to the event page), link_label. title, venue, with and description can be plain text (shown in both languages) or {\"en\": \"...\", \"it\": \"...\"}. The site sorts events and moves them from 'Upcoming' to 'Past' by itself.",
  "_example": {"date": "2027-01-15", "time": "18:30", "title": {"it": "Presentazione di «Il senso della natura»", "en": "Book launch: «Il senso della natura»"}, "venue": "Libreria Esempio", "city": "Roma", "with": "Nome Cognome", "url": "https://example.org/evento"},
- "events": []
+ "events": [
+  {"date": "2026-12-01", "title": "Test", "city": "Roma"}
+ ]
 }
