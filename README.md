@@ -15,8 +15,9 @@ repository, per esempio:
 - «Aggiungi questo articolo alla lista dei saggi: titolo, testata, anno, link»
 - «Metti questa foto come sfondo della pagina Media»
 
-Claude modifica i file in `content/`, rigenera le pagine e fa il push. Le istruzioni che
-segue sono in `CLAUDE.md`.
+Claude modifica i file in `content/`, rigenera le pagine e apre una pull request: la
+modifica va online quando la pull request viene approvata («Merge pull request» su
+GitHub). Le istruzioni che segue sono in `CLAUDE.md`.
 
 ## A mano
 
