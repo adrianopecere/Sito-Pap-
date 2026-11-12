@@ -26,6 +26,7 @@
   }
  ],
  "recent": [
+  "crisi-e-storia",
   "il-senso-della-natura",
   "el-sentido-de-la-naturaleza",
   "mechanism-life-and-mind",
@@ -35,6 +36,18 @@
   "risorgere"
  ],
  "books": [
+  {
+   "id": "crisi-e-storia",
+   "category": "research",
+   "title": "Crisi e storia. A partire da Ernesto de Martino",
+   "cover": "img/covers/crisi-e-storia.jpg",
+   "original_language": "it",
+   "desc": {
+    "it": "L’opera di Ernesto de Martino è oggi al centro di una riscoperta internazionale, rivelandosi un terreno fertile non solo per l’antropologia del terzo millennio, ma anche per la psichiatria, la filosofia, la storia e la letteratura. Crisi e storia esplora questa vocazione interdisciplinare, raccogliendo le voci di chi ha impresso svolte interpretative decisive e ha rilanciato il pensiero di de Martino con prospettive inedite. Tra i temi affrontati nel volume figurano l’attualità del suo sguardo sul Mezzogiorno – dal vecchio “confine di Eboli” alla nuova frontiera afroeuropea del “caporalato” –, il folklore balcanico di vampiri e uomini lupi, il confronto con Cassirer e Heidegger, la dimensione politica del pensiero magico e la psichiatria basagliana come spazio di pratiche decoloniali. Un percorso curato da Stefano De Matteis e Paolo Pecere – tra i più autorevoli interpreti contemporanei di Ernesto de Martino –, che dimostra come il pensiero del più grande antropologo italiano del Novecento resti uno strumento indispensabile per comprendere le crisi individuali e collettive del nostro tempo.",
+    "en": "The work of Ernesto de Martino is now at the centre of an international rediscovery, proving fertile ground not only for the anthropology of the third millennium but also for psychiatry, philosophy, history and literature. Crisi e storia explores this interdisciplinary vocation, bringing together the voices of scholars who have given decisive new turns to its interpretation and relaunched de Martino’s thought from fresh perspectives. Among the themes addressed in the volume are the relevance today of his view of the Italian South – from the old “border at Eboli” to the new Afro-European frontier of “caporalato”, the exploitation of migrant farm labour –, the Balkan folklore of vampires and werewolves, his dialogue with Cassirer and Heidegger, the political dimension of magical thinking, and Basaglia’s psychiatry as a space of decolonial practices. Edited by Stefano De Matteis and Paolo Pecere – among the most authoritative contemporary interpreters of Ernesto de Martino – the book shows how the thought of the greatest Italian anthropologist of the twentieth century remains an indispensable tool for understanding the individual and collective crises of our time."
+   },
+   "url": "https://www.meltemieditore.it/catalogo/crisi-e-storia/"
+  },
   {
    "id": "la-natura-della-mente",
    "category": "research",
