@@ -351,6 +351,15 @@ class Page:
             f'<link rel="icon" href="{self.asset("img/favicon.svg")}" type="image/svg+xml">',
             '<script>document.documentElement.classList.add("js")</script>',
         ]
+        stats = s.site.get('analytics') or {}
+        if stats.get('goatcounter') and not s.local:
+            # GoatCounter (no cookies). Visits count only on the addresses in "count_on",
+            # so branch previews and local copies leave the statistics alone.
+            hosts = json.dumps(stats.get('count_on', []))
+            out += [
+                f'<script>window.goatcounter={{no_onload:{hosts}.indexOf(location.hostname)<0}}</script>',
+                f'<script data-goatcounter="{e(stats["goatcounter"])}" async src="https://gc.zgo.at/count.js"></script>',
+            ]
         if self.key in ('home', 'about'):
             person = {
                 '@context': 'https://schema.org', '@type': 'Person', 'name': s.site['name'], 'url': base + '/',

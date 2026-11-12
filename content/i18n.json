@@ -317,15 +317,17 @@
  },
  "privacy.body": {
   "en": [
-   "This website is a personal site that presents the work of Paolo Pecere. It does not use cookies, analytics or advertising, and it has no forms or user accounts.",
+   "This website is a personal site that presents the work of Paolo Pecere. It does not use cookies or advertising, and it has no forms or user accounts.",
+   "To know which pages are read, the site counts visits with GoatCounter, a statistics service that does not use cookies and does not store visitors’ IP addresses. For each visit it records the page, the referring site, the type of browser and operating system, the screen size and the country (derived from the IP address, which is not kept). The site owner sees only aggregate figures and cannot identify individual visitors.",
    "Like any website, it is delivered by a hosting provider whose servers may record technical data needed to serve the pages (such as IP address, date and time, and the page requested) in their logs. The site owner does not use these data to identify visitors.",
-   "The fonts and images are served from this site itself. Links to publishers, journals, video and podcast platforms open external sites, each with its own privacy policy.",
+   "The fonts and images are served from this site itself; only the small visit-counting script is loaded from GoatCounter. Links to publishers, journals, video and podcast platforms open external sites, each with its own privacy policy.",
    "For any question about this page you can write to the address in the contacts."
   ],
   "it": [
-   "Questo è un sito personale che presenta il lavoro di Paolo Pecere. Non usa cookie, strumenti di analisi o pubblicità, e non ha moduli né account utente.",
+   "Questo è un sito personale che presenta il lavoro di Paolo Pecere. Non usa cookie né pubblicità, e non ha moduli né account utente.",
+   "Per sapere quali pagine vengono lette, il sito conta le visite con GoatCounter, un servizio di statistiche che non usa cookie e non conserva gli indirizzi IP dei visitatori. Per ogni visita registra la pagina, il sito di provenienza, il tipo di browser e di sistema operativo, le dimensioni dello schermo e il paese (ricavato dall’indirizzo IP, che non viene conservato). Il titolare del sito vede solo dati complessivi e non può identificare i singoli visitatori.",
    "Come ogni sito, è distribuito da un fornitore di hosting i cui server possono registrare nei log i dati tecnici necessari a servire le pagine (indirizzo IP, data e ora, pagina richiesta). Il titolare del sito non usa questi dati per identificare i visitatori.",
-   "I caratteri tipografici e le immagini sono serviti da questo stesso sito. I link a editori, riviste, piattaforme video e podcast aprono siti esterni, ciascuno con la propria informativa sulla privacy.",
+   "I caratteri tipografici e le immagini sono serviti da questo stesso sito; solo il piccolo script che conta le visite è caricato da GoatCounter. I link a editori, riviste, piattaforme video e podcast aprono siti esterni, ciascuno con la propria informativa sulla privacy.",
    "Per qualsiasi domanda su questa pagina si può scrivere all’indirizzo indicato nei contatti."
   ]
  },
