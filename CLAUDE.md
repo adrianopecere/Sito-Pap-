@@ -260,8 +260,12 @@ eseguirle (regola 2).
 - **Nuova sezione nel menu**: richiede modifiche a `build.py` (`PAGES`, `NAV`, un metodo
   `page_<chiave>`) e a `content/i18n.json`.
 - **Aspetto**: palette, caratteri e la «linguetta» del titolo sono definiti in
-  `public/assets/css/site.css`. Il sito non usa cookie, statistiche né risorse caricate da
-  altri siti; se questo cambiasse, andrebbe cambiato anche il testo della pagina Privacy.
+  `public/assets/css/site.css`. Il sito non usa cookie né risorse caricate da altri siti,
+  con una sola eccezione: lo script delle statistiche GoatCounter (senza cookie),
+  configurato in `content/site.json` alla voce `analytics` e inserito da `build.py`. Le
+  visite si contano solo sugli indirizzi elencati in `count_on`, non sulle anteprime. Se
+  cambia qualcosa in questo campo, va cambiato anche il testo della pagina Privacy
+  (`privacy.body` in `content/i18n.json`).
 
 ## Verifica prima di dichiarare finito
 

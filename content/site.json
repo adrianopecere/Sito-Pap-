@@ -1,6 +1,15 @@
 {
  "name": "Paolo Pecere",
  "base_url": "https://www.paolopecere.it",
+ "analytics": {
+  "_help": "GoatCounter: visit counts without cookies. 'count_on' lists the only addresses where visits are counted (branch previews and local copies are not counted). Remove this block to switch statistics off, and change privacy.body in i18n.json accordingly.",
+  "goatcounter": "https://paolopatch.goatcounter.com/count",
+  "count_on": [
+   "www.paolopecere.it",
+   "paolopecere.it",
+   "paolopecere.pages.dev"
+  ]
+ },
  "role": {
   "en": "Historian of philosophy and writer",
   "it": "Storico della filosofia e scrittore"
