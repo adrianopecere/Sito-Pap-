@@ -1,6 +1,18 @@
 {
  "items": [
   {
+   "title": "Carlo Ginzburg e il racconto della storia",
+   "outlet": "Domani",
+   "year": 2026,
+   "url": "https://www.editorialedomani.it/idee/cultura/carlo-ginzburg-e-il-racconto-della-storia-finzioni-j6rnm3ep"
+  },
+  {
+   "title": "Questo libro è il cuore della “nature writing” americana",
+   "outlet": "Lucy",
+   "year": 2026,
+   "url": "https://lucysullacultura.com/questo-libro-e-il-cuore-della-nature-writing-americana/"
+  },
+  {
    "title": "Warburg, gli Hopi, il pensiero dell’arte",
    "outlet": "GATE",
    "year": 2026,
@@ -133,6 +145,18 @@
    "url": "https://gategate.it/la-danza-e-lanimale-2/"
   },
   {
+   "title": "Cosa pensano le piante",
+   "outlet": "Lucy",
+   "year": 2025,
+   "url": "https://lucysullacultura.com/cosa-pensano-le-piante/"
+  },
+  {
+   "title": "Gli animali sono esseri senzienti?",
+   "outlet": "Lucy",
+   "year": 2025,
+   "url": "https://lucysullacultura.com/gli-animali-sono-esseri-senzienti/"
+  },
+  {
    "title": "La danza e l’animale",
    "outlet": "GATE",
    "year": 2025,
@@ -167,6 +191,12 @@
    "outlet": "GATE",
    "year": 2025,
    "url": "https://gategate.it/fisica-e-mistica-le-particelle-e-loriente/"
+  },
+  {
+   "title": "Narrating the Amazon",
+   "outlet": "Green European Journal",
+   "year": 2024,
+   "url": "https://greeneuropeanjournal.eu/wp-content/uploads/pdf/narrating-the-amazon.pdf"
   },
   {
    "title": "Looking at the fog",
