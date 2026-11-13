@@ -578,7 +578,6 @@ class Page:
     def page_home(self):
         s = self.s
         site = s.site
-        bio = ''.join(f'<p>{p}</p>' for p in self.pick(site['bio']))
         portrait = self.img(site['portrait'], alt=self.t('about.portrait_alt'), lazy=False)
         recent = [b for rid in s.books.get('recent', []) for b in s.books['books'] if b['id'] == rid]
 
@@ -619,7 +618,6 @@ class Page:
 <div class="wrap intro">
 <div class="intro__text">
 <p class="lead">{e(self.pick(site['lead']))}</p>
-<div class="prose">{bio}</div>
 <p class="intro__more"><a href="{self.url('about')}">{e(self.t('home.more_about'))}</a></p>
 </div>
 <figure class="intro__portrait">{portrait}</figure>
