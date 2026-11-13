@@ -327,6 +327,17 @@
    },
    "items": [
     {
+     "title": "Magical thinking between philosophy and politics. Ernesto De Martino reader of Ernst Cassirer",
+     "details": "in C. Brentari, S. Carannante (eds.), <em>Le eredità filosofiche di Ernst Cassirer</em>, Quaderni di Filosofia, Storia e Beni culturali 22, Università di Trento, 2025, pp. 237-262.",
+     "year": 2025,
+     "links": [
+      {
+       "kind": "pdf",
+       "url": "files/2025-magical-thinking-de-martino-cassirer.pdf"
+      }
+     ]
+    },
+    {
      "title": "Fine dei mondi, futuro sulla Terra",
      "details": "in AAVV, <em>Sta arrivando la fine del mondo</em>, UTET, Torino 2024, pp. 187-199.",
      "year": 2024,
@@ -375,8 +386,15 @@
      ]
     },
     {
+     "title": "Introduction: Mechanism, Life and Mind in Modern Natural Philosophy",
+     "details": "in A. Clericuzio, P. Pecere, C.T. Wolfe (eds.), <em>Mechanism, Life and Mind in Modern Natural Philosophy</em>, Springer 2022, pp. 1-8.",
+     "year": 2022,
+     "with": "A. Clericuzio, C.T. Wolfe",
+     "url": "https://doi.org/10.1007/978-3-031-07036-5_1"
+    },
+    {
      "title": "Mechanism, Organization, Mind: a Kantian Legacy in 19th Century Psychology",
-     "details": "in A. Clericuzio, P. Pecere, C.T. Wolfe (eds.), <em>Mechanism, Life and Mind in the Modern Era</em>, Springer 2022, pp. 321-344.",
+     "details": "in A. Clericuzio, P. Pecere, C.T. Wolfe (eds.), <em>Mechanism, Life and Mind in Modern Natural Philosophy</em>, Springer 2022, pp. 321-344.",
      "year": 2022,
      "links": [
       {
